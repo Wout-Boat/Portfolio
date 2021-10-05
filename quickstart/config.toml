@@ -1,0 +1,4 @@
+baseURL = 'https://wout.io/'
+languageCode = 'en-us'
+title = 'Wout Bouckaert'
+theme = 'toha'

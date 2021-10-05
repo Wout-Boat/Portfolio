@@ -1,0 +1,24 @@
+section:
+  name: About
+  id: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  templage: sections/about.html
+
+designation: Aspiring Developer
+
+summary: 'I am passionate and ready to begin using my '
+
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "woutbouckaert@gmail.com"
+
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/Wout-Boat"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/wout-bouckaert/"
