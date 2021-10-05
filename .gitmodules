@@ -1,3 +1,6 @@
 [submodule "themes/toha"]
 	path = themes/toha
 	url = https://github.com/hugo-toha/toha
+[submodule "quickstart/themes/toha"]
+	path = quickstart/themes/toha
+	url = https://github.com/hugo-toha/toha
