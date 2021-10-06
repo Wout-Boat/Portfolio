@@ -22,3 +22,18 @@ socialLinks:
   - name: LinkedIn
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/wout-bouckaert/"
+
+badges:
+  - type: soft-skill-indicator
+    name: Fast Learner
+    percentage: 95
+    color: blue
+
+  - type: soft-skills-indicator
+    name: Quick Thinker
+    percentage: 90
+
+  - type: soft-skills-indicator
+    name: Hard Working
+    percentage: 85
+    color: orange

@@ -1,0 +1,25 @@
+baseURL: https://wout/io
+languageCode: en-us
+title: Wout Bouckaert
+theme: "toha"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+
+markup:
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+enableEmoji: true
+
+params:
+
+  gitRepo: asdasd
+  enableBlogPost: false
+  enableTOC: true
+  newsletter:
+    enable: false

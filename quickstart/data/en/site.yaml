@@ -1,0 +1,15 @@
+copyright: © 2021 Copyright.
+
+description: Resume and Portfolio, Wout Bouckaert.
+
+name: "Wout Bouckaert"
+
+greeting: "Hi, I am"
+
+contactIngo:
+  email: "woutbouckaert@gmail.com"
+  phone: "+19704134848"
+
+summary:
+  - I am ready to work hard
+  - Programming since the age of 13

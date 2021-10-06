@@ -1,0 +1,15 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavBar: true
+
+skills:
+  - name: Javascript
+    logo:
+    summary: ""
+    url: "https://www.javascript.com/"
+
+  - name: Cloud Development
+    logo: /images/sections/skills/cloud.png
