@@ -11,7 +11,22 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-  - name: Cloud
+  - name: Python
+    logo: /images/sections/skills/python.svg
+    summary: "Deep experience in python. Have used it for general programming projects. Used Django as a framework for development."
+    url: "https://www.python.org/"
+
+  - name: Java
+    logo: /images/sections/skills/java.png
+    summary: "Java was the first language I was exposed to and the one that had the most focus in the classroom."
+    url: "https://www.java.com/en/"
+
+  - name: Javascript and Typescript
+    logo: /images/sections/skills/javascript.png
+    summary: "All of my recent learning has been focused in Javascript/Typescript with a specific focus in React."
+    url: "https://www.javascript.com/"
+
+  - name: Cloud Development
     logo: /images/sections/skills/cloud.png
     summary: "Have used all major cloud providers. This site is being hosted serverless on AWS."
     url: "https://kubernetes.io/"
