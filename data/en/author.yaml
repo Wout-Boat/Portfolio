@@ -1,0 +1,14 @@
+name: "Wout Bouckaert"
+nickname: "Wout"
+
+greeting: "Hi, I am"
+image: ""
+
+contactInfo:
+  email: "woutbouckaert@gmail.com"
+  phone: "+9704134848"
+
+summary:
+  - I'm an aspiring developer
+  - Programming since the age of 13
+  - Love to learn

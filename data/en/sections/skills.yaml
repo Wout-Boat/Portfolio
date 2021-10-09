@@ -1,15 +1,17 @@
+# section information
 section:
   name: Skills
   id: skills
   enable: true
   weight: 2
-  showOnNavBar: true
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
 
+# Your Skills.
+# Give a summary of you each skill in the summary section.
 skills:
-  - name: Javascript
-    logo:
-    summary: ""
-    url: "https://www.javascript.com/"
-
-  - name: Cloud Development
+  - name: Cloud
     logo: /images/sections/skills/cloud.png
+    summary: "Have used all major cloud providers. This site is being hosted serverless on AWS."
+    url: "https://kubernetes.io/"
