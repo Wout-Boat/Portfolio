@@ -1,0 +1,34 @@
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+  - name: "Business Administration: Information Systems"
+    icon: fa-graduation-cap
+    timeframe: 2017-2021
+    institution:
+      name: Colorado State University
+      url: "https://www.colostate.edu/"
+    takenCourses:
+      showGrdes: false
+      courses:
+        - name: Advanced Application Design and Development
+        - name: Business Database Systems
+        - name: Systems Analysis and Design
+        - name: Project Management for Information Systems
+        - name: Enterprise Resource Planning Systems
+    extracurricularActivities:
+      - Participated in leadership of the student media paper and TV.
+      - Lead student political groups.
+      - Participated in student government.
+      - Helped to welcome new students to the school through ram welcome.
+  - name: High School Diploma
+    icon: fa-school
+    timeframe: 2013-2017
+    institution:
+      name: Poudre High School
+      url: "https://phs.psdschools.org/"
