@@ -34,4 +34,17 @@ experiences:
         responsibilities:
           - Hired and managed a team of up to 65 people, including up to 15 volenteers.
           - Lead my managment team through time-sentivive detail-oriented work.
-          - Analiysed and improve the video pipeline inlcuding establishing S3 backups and python video processing scripts.
+          - Analysed and improved the video pipeline inlcuding establishing S3 backups and python video processing scripts.
+  - company:
+      name: iD Tech
+      url: "https://www.idtech.com/"
+      location: Denver, CO
+      overview: STUDENT MEDIA
+    positions:
+      - designation: Assistant Director
+        start: May 2017
+        end: Aug 2019
+        responsibilities:
+          - Managed a team of 25 instructors and up to 165 campers learning STEM related subjects.
+          - Helped instructors with their classes in Python, Java, C++, and robotics.
+          - Helped understand and develop STEM curriculum.

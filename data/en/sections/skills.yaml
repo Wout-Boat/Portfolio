@@ -25,3 +25,13 @@ skills:
     logo: /images/sections/skills/cloud.png
     summary: "Have used all major cloud providers. This site is being hosted serverless on AWS."
     url: "https://kubernetes.io/"
+
+  - name: Linux
+    logo: /images/sections/skills/linux.png
+    summary: "Have used and developed on Linux systems bear-metal and virtual. 3 Pis running services in my apartment."
+    url: "https://www.linux.org/"
+
+  - name: React
+    logo: /images/sections/skills/react.svg
+    summary: Have been learning React and React-Native since I took a class teaching it at CSU.
+    url: "https://reactjs.org/"
