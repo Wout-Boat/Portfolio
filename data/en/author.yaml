@@ -2,7 +2,7 @@ name: "Wout Bouckaert"
 nickname: "Wout"
 
 greeting: "Hi, I am"
-image: ""
+image: "images/author/headshot.jpg"
 
 contactInfo:
   email: "woutbouckaert@gmail.com"

@@ -8,7 +8,7 @@ section:
 
 designation: Aspiring Developer
 
-summary: 'I am passionate and ready to begin using my '
+summary: 'I am passionate and ready to begin my career in development. '
 
 socialLinks:
   - name: Email
@@ -25,15 +25,21 @@ socialLinks:
 
 badges:
   - type: soft-skill-indicator
-    name: Fast Learner
+    name: Quick Learner
     percentage: 95
-    color: blue
+    color: yellow
 
-  - type: soft-skills-indicator
+  - type: soft-skill-indicator
+    name: Hard Working
+    percentage: 90
+    color: orange
+
+  - type: soft-skill-indicator
     name: Quick Thinker
     percentage: 90
+    color: red
 
-  - type: soft-skills-indicator
-    name: Hard Working
+  - type: soft-skill-indicator
+    name: Team Worker
     percentage: 85
-    color: orange
+    color: blue
