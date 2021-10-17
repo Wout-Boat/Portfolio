@@ -33,5 +33,5 @@ skills:
 
   - name: React
     logo: /images/sections/skills/react.svg
-    summary: Have been learning React and React-Native since I took a class teaching it at CSU.
+    summary: "Have been learning React and React-Native since I took a class teaching it at CSU."
     url: "https://reactjs.org/"
